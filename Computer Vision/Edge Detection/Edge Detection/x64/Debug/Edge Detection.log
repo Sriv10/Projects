@@ -1,0 +1,24 @@
+﻿  Edge Detection.cpp
+c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(31): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(32): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(33): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(72): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(73): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(74): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(129): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(130): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(131): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\srivv\onedrive\documents\cv\opencv\build\include\opencv2\core\ptr.inl.hpp(122): error C2440: 'initializing': cannot convert from 'const char *' to 'cv::Formatted *'
+  c:\users\srivv\onedrive\documents\cv\opencv\build\include\opencv2\core\ptr.inl.hpp(122): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  c:\users\srivv\onedrive\documents\cv\opencv\build\include\opencv2\core\cvstd.inl.hpp(176): note: see reference to function template instantiation 'cv::Ptr<cv::Formatted>::Ptr<const char>(Y *)' being compiled
+          with
+          [
+              Y=const char
+          ]
+  c:\users\srivv\source\repos\edge detection\edge detection\edge detection.cpp(270): note: see reference to function template instantiation 'cv::Ptr<cv::Formatted>::Ptr<const char>(Y *)' being compiled
+          with
+          [
+              Y=const char
+          ]
+c:\users\srivv\onedrive\documents\cv\opencv\build\include\opencv2\core\ptr.inl.hpp(122): error C2439: 'cv::Ptr<cv::Formatted>::stored': member could not be initialized
+  c:\users\srivv\onedrive\documents\cv\opencv\build\include\opencv2\core\cvstd.hpp(399): note: see declaration of 'cv::Ptr<cv::Formatted>::stored'
