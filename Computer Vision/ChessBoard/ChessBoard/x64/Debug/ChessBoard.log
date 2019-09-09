@@ -1,0 +1,5 @@
+﻿  ChessBoard.cpp
+c:\users\srivv\source\repos\chessboard\chessboard\chessboard.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\srivv\source\repos\chessboard\chessboard\chessboard.cpp(85): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\srivv\source\repos\chessboard\chessboard\chessboard.cpp(86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChessBoard.vcxproj -> C:\Users\srivv\source\repos\ChessBoard\x64\Debug\ChessBoard.exe
