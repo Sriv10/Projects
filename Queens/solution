@@ -1,0 +1,152 @@
+import time
+from matplotlib import pyplot as plt
+import math
+import random
+
+NUM = 0
+NODES = 0
+
+def goal(state):
+    return -1 not in state
+
+def get_unassigned_col(qdict, state):
+    l = list(qdict.keys())
+    l.sort(key=lambda x: len(qdict[x]) + random.random())
+    for x in l:
+        if state[x] == -1:
+            return x
+    return False
+
+
+def get_values_for_col(qdict, col):
+    random.shuffle(qdict[col])
+    return list(qdict[col])
+
+
+def add(pos, col, val, state):
+    # print("QDICT " + str(qdict[col]))
+    r = 0
+    state[col] = val
+    qdict = pos.copy()
+
+    for x in qdict.keys():
+        if x is not col:
+            r = 0
+            while r < len(qdict[x]):
+                w = qdict[x][r]
+                if w == val:
+                    qdict[x].remove(w)
+                    r -= 1
+                else:
+                    if abs(x - col) == abs(w - val):
+                        qdict[x].remove(w)
+                        r -= 1
+                r += 1
+        if len(qdict[x]) == 0:
+            return False
+    return qdict
+
+
+def copy(d):
+    nstate = {}
+    for k in d.keys():
+        nstate[k] = d[k].copy()
+    return nstate
+
+
+def recur(state, possible):
+    # print(qdict)
+    global NODES, NUM
+    NODES += 1
+    if NODES > (NUM + NUM):
+        print("Hello" + str(NODES))
+        return True
+    if goal(state):
+        print("SOLVED")
+        return possible
+    col = get_unassigned_col(possible, state)
+    if col is False:
+        return False
+
+    w = (get_values_for_col(possible, col))
+    for r in w:
+        newPossible = copy(possible)
+        newState = state.copy()
+
+        newPossible = add(newPossible, col, r, newState)
+        if newPossible is not False:
+            result = recur(newState, newPossible)
+            if result is not False:
+                return result
+    return False
+
+
+def display(qdict):
+    n = len(qdict)
+    for x in range(n):
+        line = ""
+        x = x + 1
+        for v in qdict.keys():
+            if qdict[v][0] == x:
+                line = line + "X  "
+            else:
+                line = line + "0  "
+        print(line)
+    print()
+
+
+def nQueens(n):
+    global NUM, NODES
+    queens = {}
+    NUM = n
+    possible = {}
+    possible[1] = []
+    for x in range(NUM):
+        possible[1].append(x + 1)
+    for x in range(2, NUM + 1):
+        possible[x] = possible[1].copy()
+    state = [-4] + ([-1] * n)
+    r = recur(state, possible)
+    if r is not True:
+        return r
+    NODES = 0
+    return nQueens(n)
+
+'''
+a, b, c = 1, 101, 2
+
+xcoords = []
+
+[xcoords.append(r) for r in range(a, b, c)]
+ycoords = []
+tcoords = []
+for x in range(a, b, c):
+    NODES = 0
+    tic = time.time()
+    r = nQueens(x)
+    tcoords.append(time.time() - tic)
+    ycoords.append((math.log10(NODES)))  # math.log10()
+    print(str(x) + ": " + str(NODES))
+    if r is False:
+        print("False")
+print(xcoords)
+print(ycoords)
+# axes = plt.subplots(2, 2, sharex='col')
+ax1 = plt.subplot(211)
+plt.plot(xcoords, ycoords)
+plt.ylabel("Log(Nodes)")
+plt.xlabel("n")
+ax2 = plt.subplot(212, sharex=ax1)
+plt.plot(xcoords, tcoords)
+plt.ylabel("Time (s)")
+plt.xlabel("n")
+
+plt.show()
+
+'''
+tic = time.time()
+r = (nQueens(599))
+print(time.time()-tic)
+#print(str(r))
+#display(r)
+#'''
