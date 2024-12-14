@@ -1,0 +1,146 @@
+game_id,desc,down,time,yardline_100,ydsnet,wpa,start,end
+2018121700,Half2 down 1.0 start 39.0 end 38.0 (:35) D.Brees kneels to CAR 40 for -1 yards.,1.0,00:35:00,39.0,-1,2.67600240636389, start 39.0, end 38.0
+2018121700,"Half2 down 4.0 start 61.0 end 80.0 (:38) (No Huddle, Shotgun) C.Newton pass incomplete short right to I.Thomas [D.Davis].",4.0,00:38:00,61.0,19,0.54570838146377, start 61.0, end 80.0
+2018121700,Half2 down 3.0 start 66.0 end 85.0 (:58) (Shotgun) C.Newton pass short middle to J.Wright to CAR 39 for 5 yards (E.Apple).,3.0,00:58:00,66.0,19,4.22807466966922, start 66.0, end 85.0
+2018121700,Half2 down 2.0 start 66.0 end 85.0 (1:03) (Shotgun) C.Newton pass incomplete short middle to C.Samuel (D.Davis).,2.0,01:03:00,66.0,19,2.21943490771715, start 66.0, end 85.0
+2018121700,Half2 down 1.0 start 66.0 end 85.0 (1:04) (No Huddle) C.Newton spiked the ball to stop the clock.,1.0,01:04:00,66.0,19,1.31292542855498, start 66.0, end 85.0
+2018121700,Half2 down 3.0 start 71.0 end 90.0 (1:17) (Shotgun) C.Newton pass short middle to C.McCaffrey to CAR 34 for 5 yards (V.Bell).,3.0,01:17:00,71.0,19,1.3464775225108, start 71.0, end 90.0
+2018121700,"Half2 down 2.0 start 71.0 end 90.0 (1:22) (No Huddle, Shotgun) C.Newton pass incomplete short right to C.Samuel.",2.0,01:22:00,71.0,19,1.87872274691925, start 71.0, end 90.0
+2018121700,Half2 down 1.0 start 80.0 end 99.0 (1:44) (Shotgun) C.Newton pass short right to C.McCaffrey to CAR 29 for 9 yards (D.Davis; V.Bell).,1.0,01:44:00,80.0,19,1.48330346601255, start 80.0, end 99.0
+2018121700,"Half2 down 3.0 start 5.0 end 69.0 (1:51) T.Lewis right end to CAR 1 for 4 yards (J.Bradberry). FUMBLES (J.Bradberry), ball out of bounds in End Zone, Touchback. Penalty on NO-M.Thomas, Offensive Holding, declined. The Replay Official reviewed the touchback ruling, and the play was Upheld. The ruling on the field stands.",3.0,01:51:00,5.0,64,11.32794017184983, start 5.0, end 69.0
+2018121700,Half2 down 2.0 start 8.0 end 72.0 (1:55) (Shotgun) A.Kamara up the middle to CAR 5 for 3 yards (T.Davis).,2.0,01:55:00,8.0,64,0.18956626258245002, start 8.0, end 72.0
+2018121700,Half2 down 1.0 start 11.0 end 75.0 (2:00) M.Ingram right tackle to CAR 8 for 3 yards (E.Reid; L.Kuechly).,1.0,02:00:00,11.0,64,0.30227680938405, start 11.0, end 75.0
+2018121700,Half2 down 4.0 start 14.0 end 78.0 (2:30) A.Kamara left end to CAR 11 for 3 yards (L.Kuechly; M.Adams).,4.0,02:30:00,14.0,64,5.13763638560504, start 14.0, end 78.0
+2018121700,Half2 down 3.0 start 23.0 end 87.0 (2:47) (Shotgun) D.Brees pass short right to T.Smith to CAR 14 for 9 yards (C.Munnerlyn).,3.0,02:47:00,23.0,64,0.017382075950700404, start 23.0, end 87.0
+2018121700,Half2 down 2.0 start 22.0 end 86.0 (3:33) A.Kamara right tackle to CAR 23 for -1 yards (L.Kuechly).,2.0,03:33:00,22.0,64,0.13460375237070002, start 22.0, end 86.0
+2018121700,Half2 down 1.0 start 23.0 end 87.0 (4:16) M.Ingram right guard to CAR 22 for 1 yard (K.Short).,1.0,04:16:00,23.0,64,0.56374115918937, start 23.0, end 87.0
+2018121700,Half2 down 1.0 start 39.0 end 103.0 (4:59) A.Kamara right guard to CAR 23 for 16 yards (M.Adams).,1.0,04:59:00,39.0,64,3.05954639675901, start 39.0, end 103.0
+2018121700,Half2 down 2.0 start 48.0 end 112.0 (5:40) (Shotgun) D.Brees pass short left to M.Thomas to CAR 39 for 9 yards (L.Kuechly).,2.0,05:40:00,48.0,64,3.73357153599612, start 48.0, end 112.0
+2018121700,"Half2 down 2.0 start 43.0 end 107.0 (6:16) (Shotgun) A.Kamara right end to CAR 25 for 18 yards (E.Reid). PENALTY on NO-T.Hill, Offensive Holding, 10 yards, enforced at CAR 38.",2.0,06:16:00,43.0,64,0.69954700804109, start 43.0, end 107.0
+2018121700,Half2 down 1.0 start 50.0 end 114.0 (6:43) D.Brees pass short right to M.Thomas pushed ob at CAR 43 for 7 yards (M.Adams).,1.0,06:43:00,50.0,64,1.55877494544554, start 50.0, end 114.0
+2018121700,Half2 down 3.0 start 69.0 end 133.0 (7:21) (Shotgun) D.Brees pass deep middle to K.Kirkwood to 50 for 19 yards (E.Reid) [J.Peppers].,3.0,07:21:00,69.0,64,11.568671408301071, start 69.0, end 133.0
+2018121700,Half2 down 2.0 start 65.0 end 129.0 (8:06) (Shotgun) D.Brees sacked at NO 31 for -4 yards (C.Munnerlyn).,2.0,08:06:00,65.0,64,4.45900117013257, start 65.0, end 129.0
+2018121700,Half2 down 1.0 start 70.0 end 134.0 (8:51) (Shotgun) M.Ingram right tackle to NO 35 for 5 yards (T.Davis; V.Butler).,1.0,08:51:00,70.0,64,0.52246483337475, start 70.0, end 134.0
+2018121700,"Half2 down 1.0 start 65.0 end 129.0 (8:51) (Shotgun) PENALTY on NO-L.Warford, False Start, 5 yards, enforced at NO 35 - No Play.",1.0,08:51:00,65.0,64,2.21675317715782, start 65.0, end 129.0
+2018121700,"Half2 down 4.0 start 58.0 end 74.0 (8:56) M.Palardy punts 23 yards to NO 35, Center-J.Jansen, out of bounds.",4.0,08:56:00,58.0,16,1.8134167115332, start 58.0, end 74.0
+2018121700,Half2 down 3.0 start 49.0 end 65.0 (9:42) (Shotgun) C.Newton sacked at CAR 42 for -9 yards (V.Bell).,3.0,09:42:00,49.0,16,9.63363650361605, start 49.0, end 65.0
+2018121700,Half2 down 2.0 start 57.0 end 73.0 (10:22) (Shotgun) C.Newton pass short left to C.McCaffrey to NO 49 for 8 yards (M.Lattimore; D.Davis).,2.0,10:22:00,57.0,16,0.21350430184318, start 57.0, end 73.0
+2018121700,"Half2 down 2.0 start 47.0 end 63.0 (10:52) (No Huddle) C.Newton scrambles up the middle to NO 36 for 11 yards (E.Apple). PENALTY on CAR-T.Turner, Offensive Holding, 10 yards, enforced at NO 47 - No Play.",2.0,10:52:00,47.0,16,4.75863512584857, start 47.0, end 63.0
+2018121700,Half2 down 1.0 start 52.0 end 68.0 (11:24) (No Huddle) C.McCaffrey right guard to NO 47 for 5 yards (D.Davis).,1.0,11:24:00,52.0,16,0.08788193242155184, start 52.0, end 68.0
+2018121700,Half2 down 3.0 start 74.0 end 90.0 (11:58) (Shotgun) C.Newton pass short middle to C.McCaffrey to CAR 48 for 22 yards (M.Williams; A.Anzalone).,3.0,11:58:00,74.0,16,12.572807359761102, start 74.0, end 90.0
+2018121700,Half2 down 2.0 start 74.0 end 90.0 (12:01) (Shotgun) C.Newton pass incomplete short middle to C.Samuel.,2.0,12:01:00,74.0,16,3.39775431719627, start 74.0, end 90.0
+2018121700,Half2 down 1.0 start 74.0 end 90.0 (12:07) C.Newton pass incomplete short right to C.McCaffrey (D.Davis).,1.0,12:07:00,74.0,16,2.66408489716029, start 74.0, end 90.0
+2018121700,"Half2 down 2.0 start 16.0 end 100.0 (12:18) A.Kamara right tackle for 16 yards, TOUCHDOWN.",2.0,12:18:00,16.0,84,10.086295142521, start 16.0, end 100.0
+2018121700,Half2 down 1.0 start 23.0 end 107.0 (13:01) W.Clapp reported in as eligible.  M.Ingram right tackle to CAR 16 for 7 yards (S.Thompson).,1.0,13:01:00,23.0,84,0.5871495543919, start 23.0, end 107.0
+2018121700,Half2 down 2.0 start 40.0 end 124.0 (13:43) (Shotgun) T.Hill left end to CAR 23 for 17 yards (D.Jackson; M.Adams).,2.0,13:43:00,40.0,84,4.47868662055951, start 40.0, end 124.0
+2018121700,Half2 down 1.0 start 42.0 end 126.0 (14:25) (Shotgun) D.Brees pass short left to M.Ingram to CAR 40 for 2 yards (T.Davis).,1.0,14:25:00,42.0,84,1.12008485058457, start 42.0, end 126.0
+2018121700,Half2 down 2.0 start 54.0 end 138.0 (15:00) (Shotgun) D.Brees pass short left to M.Thomas to CAR 42 for 12 yards (S.Thompson; J.Bradberry).,2.0,15:00:00,54.0,84,5.13648670153972, start 54.0, end 138.0
+2018121700,Half2 down 1.0 start 53.0 end 137.0 (:19) A.Kamara right end to NO 46 for -1 yards (L.Kuechly).,1.0,00:19:00,53.0,84,2.5648876048232903, start 53.0, end 137.0
+2018121700,Half2 down 2.0 start 54.0 end 138.0 (:55) Z.Line up the middle to NO 47 for 1 yard (E.Reid).,2.0,00:55:00,54.0,84,1.1650012019677298, start 54.0, end 138.0
+2018121700,Half2 down 1.0 start 63.0 end 147.0 (1:18) (Shotgun) D.Brees pass short left to A.Kamara pushed ob at NO 46 for 9 yards (T.Davis).,1.0,01:18:00,63.0,84,3.8770411918931296, start 63.0, end 147.0
+2018121700,"Half2 down 2.0 start 81.0 end 165.0 (1:24) (Shotgun) D.Brees pass incomplete deep middle to M.Thomas. PENALTY on CAR-D.Jackson, Defensive Pass Interference, 18 yards, enforced at NO 19 - No Play.",2.0,01:24:00,81.0,84,9.22221253404153, start 81.0, end 165.0
+2018121700,Half2 down 1.0 start 73.0 end 157.0 (2:10) D.Brees sacked at NO 19 for -8 yards (sack split by S.Thompson and V.Butler).,1.0,02:10:00,73.0,84,6.23207423477231, start 73.0, end 157.0
+2018121700,Half2 down 2.0 start 75.0 end 159.0 (2:46) M.Ingram right guard to NO 27 for 2 yards (M.Addison).,2.0,02:46:00,75.0,84,0.94928671537127, start 75.0, end 159.0
+2018121700,Half2 down 1.0 start 84.0 end 168.0 (3:25) D.Brees pass short left to M.Thomas to NO 25 for 9 yards (J.Bradberry).,1.0,03:25:00,84.0,84,4.41727696145671, start 84.0, end 168.0
+2018121700,"Half2 down 1.0 start 50.0 end 107.0 (3:35) D.Moore up the middle to NO 28 for 22 yards (V.Bell). FUMBLES (V.Bell), RECOVERED by NO-A.Klein at NO 16. A.Klein to NO 16 for no gain (C.Samuel).",1.0,03:35:00,50.0,57,7.539553652737229, start 50.0, end 107.0
+2018121700,"Half2 down 3.0 start 52.0 end 109.0 (3:50) (Shotgun) C.Newton right tackle to CAR 49 for 1 yard (A.Anzalone). Carolina challenged the short of the line to gain ruling, and the play was REVERSED. (Shotgun) C.Newton right tackle to 50 for 2 yards (A.Anzalone).",3.0,03:50:00,52.0,57,2.79275518929075, start 52.0, end 109.0
+2018121700,Half2 down 2.0 start 59.0 end 116.0 (4:27) (Shotgun) C.Newton pass short right to J.Wright to CAR 48 for 7 yards (A.Anzalone).,2.0,04:27:00,59.0,57,1.9085180777850899, start 59.0, end 116.0
+2018121700,Half2 down 1.0 start 60.0 end 117.0 (5:08) (Shotgun) C.McCaffrey left tackle to CAR 41 for 1 yard (T.Davison; A.Okafor).,1.0,05:08:00,60.0,57,1.9534415910198701, start 60.0, end 117.0
+2018121700,Half2 down 3.0 start 69.0 end 126.0 (5:43) (Shotgun) C.Newton pass short middle to J.Wright to CAR 40 for 9 yards (P.Williams).,3.0,05:43:00,69.0,57,7.621175354176921, start 69.0, end 126.0
+2018121700,Half2 down 2.0 start 71.0 end 128.0 (6:19) (Shotgun) C.Samuel left tackle to CAR 31 for 2 yards (D.Davis).,2.0,06:19:00,71.0,57,2.07600794606903, start 71.0, end 128.0
+2018121700,Half2 down 1.0 start 73.0 end 130.0 (7:00) (Shotgun) C.McCaffrey up the middle to CAR 29 for 2 yards (C.Jordan).,1.0,07:00:00,73.0,57,1.5422968243287, start 73.0, end 130.0
+2018121700,Half2 down 1.0 start 85.0 end 142.0 (7:36) (Shotgun) C.Newton pass short left to C.McCaffrey to CAR 27 for 12 yards (A.Klein).,1.0,07:36:00,85.0,57,3.8861416246137, start 85.0, end 142.0
+2018121700,"Half2 down 4.0 start 53.0 end 76.0 (7:43) T.Morstead punts 43 yards to CAR 10, Center-Z.Wood, out of bounds. PENALTY on NO-J.Hardee, Player Out of Bounds on Kick, 5 yards, enforced at CAR 10.",4.0,07:43:00,53.0,23,3.8559381405732798, start 53.0, end 76.0
+2018121700,Half2 down 3.0 start 63.0 end 86.0 (8:16) (Shotgun) D.Brees pass short right to M.Thomas to NO 47 for 10 yards (E.Reid).,3.0,08:16:00,63.0,23,0.98492440889126, start 63.0, end 86.0
+2018121700,Half2 down 2.0 start 58.0 end 81.0 (9:00) D.Brees pass short left to A.Kamara to NO 37 for -5 yards (M.Addison; T.Davis).,2.0,09:00:00,58.0,23,5.44808553959229, start 58.0, end 81.0
+2018121700,Half2 down 1.0 start 55.0 end 78.0 (9:36) D.Brees pass short left to M.Thomas to NO 42 for -3 yards (D.Jackson).,1.0,09:36:00,55.0,23,3.3273929768221904, start 55.0, end 78.0
+2018121700,"Half2 down 4.0 start 70.0 end 93.0 (9:43) (Punt formation) T.Morstead punts 47 yards to CAR 23, Center-Z.Wood. K.Barner MUFFS catch, ball out of bounds at CAR 26. PENALTY on CAR-D.Mayo, Roughing the Kicker, 15 yards, enforced at NO 30 - No Play.",4.0,09:43:00,70.0,23,13.957628179405871, start 70.0, end 93.0
+2018121700,Half2 down 3.0 start 81.0 end 104.0 (10:18) (Shotgun) D.Brees pass short middle to A.Kamara to NO 30 for 11 yards (L.Kuechly).,3.0,10:18:00,81.0,23,0.00928716279779973, start 81.0, end 104.0
+2018121700,Half2 down 2.0 start 81.0 end 104.0 (10:23) (Shotgun) D.Brees pass incomplete short right to A.Kamara (J.Peppers).,2.0,10:23:00,81.0,23,3.33922093703964, start 81.0, end 104.0
+2018121700,Half2 down 1.0 start 81.0 end 104.0 (11:03) (Shotgun) W.Clapp reported in as eligible.  A.Kamara right guard to NO 19 for no gain (T.Davis).,1.0,11:03:00,81.0,23,2.5084694143972097, start 81.0, end 104.0
+2018121700,"Half2 down 1.0 start 76.0 end 99.0 (11:30) (Shotgun) D.Brees pass deep left to M.Thomas to NO 40 for 16 yards (J.Bradberry). PENALTY on NO, Illegal Formation, 5 yards, enforced at NO 24 - No Play.",1.0,11:30:00,76.0,23,2.33430493753843, start 76.0, end 99.0
+2018121700,"Half2 down 4.0 start 85.0 end 83.0 (11:42) M.Palardy punts 50 yards to NO 35, Center-J.Jansen. T.Lewis to NO 34 for -1 yards (J.Carter; C.Jones). PENALTY on NO-J.Robinson, Illegal Block Above the Waist, 10 yards, enforced at NO 34.",4.0,11:42:00,85.0,-2,8.94194203393435, start 85.0, end 83.0
+2018121700,Half2 down 3.0 start 85.0 end 83.0 (11:44) (Shotgun) C.Newton pass incomplete short left to C.McCaffrey.,3.0,11:44:00,85.0,-2,3.5424476544400703, start 85.0, end 83.0
+2018121700,"Half2 down 3.0 start 80.0 end 78.0 (11:44) (Shotgun) PENALTY on CAR-C.Samuel, False Start, 5 yards, enforced at CAR 20 - No Play.",3.0,11:44:00,80.0,-2,2.40146557044913, start 80.0, end 78.0
+2018121700,Half2 down 2.0 start 80.0 end 78.0 (11:49) (Shotgun) C.Newton pass incomplete short right to J.Wright (E.Apple).,2.0,11:49:00,80.0,-2,2.97272128652584, start 80.0, end 78.0
+2018121700,Half2 down 1.0 start 83.0 end 81.0 (12:35) (Shotgun) C.McCaffrey right guard to CAR 20 for 3 yards (S.Rankins; A.Okafor).,1.0,12:35:00,83.0,-2,1.00081965377489, start 83.0, end 81.0
+2018121700,"Half2 down 4.0 start 61.0 end 75.0 (12:43) T.Morstead punts 45 yards to CAR 16, Center-Z.Wood. K.Barner to CAR 17 for 1 yard (J.Hardee).",4.0,12:43:00,61.0,14,5.29749615566118, start 61.0, end 75.0
+2018121700,Half2 down 3.0 start 61.0 end 75.0 (12:48) (Shotgun) D.Brees pass incomplete short left to T.Smith.,3.0,12:48:00,61.0,14,5.35558261564951, start 61.0, end 75.0
+2018121700,"Half2 down 2.0 start 61.0 end 75.0 (12:57) (Shotgun) D.Brees pass incomplete deep right to B.Watson (D.Jackson). New Orleans challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",2.0,12:57:00,61.0,14,0.0, start 61.0, end 75.0
+2018121700,Half2 down 1.0 start 61.0 end 75.0 (13:32) (Shotgun) M.Ingram up the middle to NO 39 for no gain (S.Thompson; K.Short).,1.0,13:32:00,61.0,14,4.2573663792238, start 61.0, end 75.0
+2018121700,Half2 down 2.0 start 66.0 end 80.0 (14:30) Z.Line right guard to NO 39 for 5 yards (E.Reid; S.Thompson).,2.0,14:30:00,66.0,14,0.18803097944046, start 66.0, end 80.0
+2018121700,Half2 down 1.0 start 75.0 end 89.0 (15:00) (Shotgun) A.Kamara up the middle to NO 34 for 9 yards (L.Kuechly).,1.0,15:00:00,75.0,14,4.00923228818072, start 75.0, end 89.0
+2018121700,Half1 down 2.0 start 13.0 end 42.0 (:18) (Shotgun) C.Newton pass short right intended for D.Funchess INTERCEPTED by E.Apple at NO 0. Touchback.,2.0,00:18:00,13.0,29,10.79539495984768, start 13.0, end 42.0
+2018121700,Half1 down 1.0 start 20.0 end 49.0 (:23) (Shotgun) C.Newton pass short left to C.McCaffrey pushed ob at NO 13 for 7 yards (M.Lattimore).,1.0,00:23:00,20.0,29,0.53177332338617, start 20.0, end 49.0
+2018121700,"Half1 down 2.0 start 25.0 end 54.0 (:40) (Shotgun) C.Newton up the middle to NO 20 for 5 yards (P.Williams, C.Jordan).",2.0,00:40:00,25.0,29,1.41252684873202, start 25.0, end 54.0
+2018121700,Half1 down 1.0 start 31.0 end 60.0 (:51) (Shotgun) C.Samuel left end to NO 25 for 6 yards (P.Williams).,1.0,00:51:00,31.0,29,0.6813382255317201, start 31.0, end 60.0
+2018121700,"Half1 down 2.0 start 34.0 end 63.0 (1:23) (No Huddle, Shotgun) C.McCaffrey right guard to NO 31 for 3 yards (C.Jordan).",2.0,01:23:00,34.0,29,0.13085988204396998, start 34.0, end 63.0
+2018121700,Half1 down 1.0 start 42.0 end 71.0 (1:46) (Shotgun) C.Newton pass short right to C.McCaffrey to NO 34 for 8 yards (D.Davis).,1.0,01:46:00,42.0,29,0.9328303742218, start 42.0, end 71.0
+2018121700,Half1 down 2.0 start 47.0 end 51.0 (2:00) (Shotgun) D.Brees pass deep left intended for D.Arnold INTERCEPTED by J.Bradberry (T.Davis) at CAR 29. J.Bradberry to NO 42 for 29 yards (T.Smith).,2.0,02:00:00,47.0,4,8.811558704329391, start 47.0, end 51.0
+2018121700,Half1 down 1.0 start 51.0 end 55.0 (2:08) (Shotgun) D.Brees pass short left to A.Kamara to CAR 47 for 4 yards (T.Davis).,1.0,02:08:00,51.0,4,0.18535647220294, start 51.0, end 55.0
+2018121700,"Half1 down 4.0 start 82.0 end 77.0 (2:20) M.Palardy punts 33 yards to NO 49, Center-J.Jansen, downed by CAR-J.Jansen.",4.0,02:20:00,82.0,-5,0.31205283484037, start 82.0, end 77.0
+2018121700,"Half1 down 3.0 start 87.0 end 82.0 (2:46) (Shotgun) C.Newton scrambles up the middle to CAR 18 for 5 yards (A.Okafor). Penalty on CAR-T.Moton, Offensive Holding, declined.",3.0,02:46:00,87.0,-5,0.80846614645255, start 87.0, end 82.0
+2018121700,Half1 down 2.0 start 89.0 end 84.0 (2:52) (Shotgun) C.McCaffrey right tackle to CAR 13 for 2 yards (S.Rankins).,2.0,02:52:00,89.0,-5,0.33846625184275, start 89.0, end 84.0
+2018121700,"Half1 down 1.0 start 77.0 end 72.0 (3:14) (Shotgun) C.Newton sacked at CAR 11 for -12 yards (D.Onyemata). Penalty on CAR-M.Newhouse, Offensive Holding, declined.",1.0,03:14:00,77.0,-5,3.58942478185703, start 77.0, end 72.0
+2018121700,"Half1 down 4.0 start 57.0 end 77.0 (3:22) T.Morstead punts 34 yards to CAR 23, Center-Z.Wood, out of bounds.",4.0,03:22:00,57.0,20,0.66414589978313, start 57.0, end 77.0
+2018121700,Half1 down 3.0 start 57.0 end 77.0 (3:27) (Shotgun) D.Brees pass incomplete deep right to M.Thomas (E.Reid).,3.0,03:27:00,57.0,20,3.03920437478555, start 57.0, end 77.0
+2018121700,Half1 down 2.0 start 57.0 end 77.0 (3:31) (Shotgun) D.Brees pass incomplete short left to T.Smith (C.Munnerlyn).,2.0,03:31:00,57.0,20,1.9430154931318202, start 57.0, end 77.0
+2018121700,Half1 down 1.0 start 57.0 end 77.0 (3:38) D.Brees pass incomplete deep right to A.Kamara (C.Munnerlyn).,1.0,03:38:00,57.0,20,1.4522688828935801, start 57.0, end 77.0
+2018121700,Half1 down 1.0 start 67.0 end 87.0 (4:20) D.Brees pass short middle to J.Hill to NO 43 for 10 yards (D.Jackson).,1.0,04:20:00,67.0,20,1.58516452225762, start 67.0, end 87.0
+2018121700,"Half1 down 2.0 start 56.0 end 76.0 (4:48) (Shotgun) M.Ingram right tackle to NO 48 for 4 yards (S.Thompson; W.Horton). PENALTY on NO-A.Peat, Unnecessary Roughness, 15 yards, enforced between downs.",2.0,04:48:00,56.0,20,3.36651980347188, start 56.0, end 76.0
+2018121700,Half1 down 1.0 start 65.0 end 85.0 (5:23) D.Brees pass short left to M.Ingram pushed ob at NO 44 for 9 yards (L.Kuechly).,1.0,05:23:00,65.0,20,2.4650656150130903, start 65.0, end 85.0
+2018121700,Half1 down 2.0 start 70.0 end 90.0 (6:02) (Shotgun) A.Kamara up the middle to NO 35 for 5 yards (L.Kuechly).,2.0,06:02:00,70.0,20,1.1792735189031, start 70.0, end 90.0
+2018121700,"Half1 down 1.0 start 77.0 end 97.0 (6:42) (Shotgun) M.Ingram right guard to NO 30 for 7 yards (T.Davis, B.Cox).",1.0,06:42:00,77.0,20,1.20677569814271, start 77.0, end 97.0
+2018121700,"Half1 down 4.0 start 66.0 end 75.0 (6:54) M.Palardy punts 56 yards to NO 10, Center-J.Jansen. T.Lewis to NO 23 for 13 yards (D.Mayo).",4.0,06:54:00,66.0,9,1.87658281917277, start 66.0, end 75.0
+2018121700,Half1 down 3.0 start 66.0 end 75.0 (7:01) (Shotgun) C.Newton pass incomplete short right to C.McCaffrey.,3.0,07:01:00,66.0,9,3.40475451901356, start 66.0, end 75.0
+2018121700,"Half1 down 2.0 start 62.0 end 71.0 (7:44) (No Huddle, Shotgun) C.Newton pass short right to C.McCaffrey to CAR 34 for -4 yards (A.Anzalone).",2.0,07:44:00,62.0,9,3.74752317485528, start 62.0, end 71.0
+2018121700,Half1 down 1.0 start 63.0 end 72.0 (8:07) C.McCaffrey up the middle to CAR 38 for 1 yard (C.Jordan).,1.0,08:07:00,63.0,9,1.3903634555362299, start 63.0, end 72.0
+2018121700,Half1 down 3.0 start 66.0 end 75.0 (8:45) C.Newton up the middle to CAR 37 for 3 yards (A.Klein; M.Davenport).,3.0,08:45:00,66.0,9,1.52326281382704, start 66.0, end 75.0
+2018121700,"Half1 down 2.0 start 70.0 end 79.0 (9:27) (No Huddle, Shotgun) C.McCaffrey right guard to CAR 34 for 4 yards (M.Williams).",2.0,09:27:00,70.0,9,1.8153160948947498, start 70.0, end 79.0
+2018121700,"Half1 down 1.0 start 75.0 end 84.0 (9:56) (Shotgun) C.Newton pass short right to D.Moore to CAR 30 for 5 yards (P.Williams, D.Davis).",1.0,09:56:00,75.0,9,0.48450896875861005, start 75.0, end 84.0
+2018121700,"Half1 down 4.0 start 6.0 end 75.0 (10:00) W.Lutz 24 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",4.0,10:00:00,6.0,69,1.10873962162367, start 6.0, end 75.0
+2018121700,Half1 down 3.0 start 9.0 end 78.0 (10:32) (Shotgun) D.Brees pass short middle to A.Kamara to CAR 6 for 3 yards (T.Davis).,3.0,10:32:00,9.0,69,1.9432095050552298, start 9.0, end 78.0
+2018121700,Half1 down 2.0 start 9.0 end 78.0 (10:39) (Shotgun) D.Brees pass incomplete short right.,2.0,10:39:00,9.0,69,2.10663742540073, start 9.0, end 78.0
+2018121700,Half1 down 1.0 start 13.0 end 82.0 (11:23) W.Clapp reported in as eligible.  A.Kamara left tackle to CAR 9 for 4 yards (E.Reid).,1.0,11:23:00,13.0,69,0.31644894848160005, start 13.0, end 82.0
+2018121700,Half1 down 3.0 start 19.0 end 88.0 (12:02) (Shotgun) D.Brees pass short left to T.Smith to CAR 13 for 6 yards (C.Munnerlyn).,3.0,12:02:00,19.0,69,3.5899322364358603, start 19.0, end 88.0
+2018121700,"Half1 down 3.0 start 14.0 end 83.0 (12:22) D.Brees up the middle to CAR 13 for 1 yard (L.Kuechly). PENALTY on NO-A.Kamara, False Start, 5 yards, enforced at CAR 14 - No Play.",3.0,12:22:00,14.0,69,2.0680055878828303, start 14.0, end 83.0
+2018121700,Half1 down 2.0 start 19.0 end 88.0 (12:50) D.Brees pass short right to M.Thomas pushed ob at CAR 14 for 5 yards (L.Kuechly).,2.0,12:50:00,19.0,69,0.0971222917750536, start 19.0, end 88.0
+2018121700,Half1 down 1.0 start 23.0 end 92.0 (13:23) M.Ingram up the middle to CAR 19 for 4 yards (L.Kuechly).,1.0,13:23:00,23.0,69,0.43513856074539997, start 23.0, end 92.0
+2018121700,Half1 down 1.0 start 37.0 end 106.0 (14:03) D.Brees pass short right to J.Hill pushed ob at CAR 23 for 14 yards (B.Cox; M.Adams).,1.0,14:03:00,37.0,69,1.6455055725920702, start 37.0, end 106.0
+2018121700,Half1 down 3.0 start 38.0 end 107.0 (14:33) (Shotgun) A.Kamara up the middle to CAR 37 for 1 yard (K.Short).,3.0,14:33:00,38.0,69,0.7399319833698901, start 38.0, end 107.0
+2018121700,Half1 down 2.0 start 44.0 end 113.0 (15:00) (Shotgun) D.Brees pass short left to A.Kamara pushed ob at CAR 38 for 6 yards (L.Kuechly).,2.0,15:00:00,44.0,69,0.20743346059382, start 44.0, end 113.0
+2018121700,Half1 down 1.0 start 47.0 end 116.0 (:20) M.Ingram right guard to CAR 44 for 3 yards (W.Horton).,1.0,00:20:00,47.0,69,0.7422607576278101, start 47.0, end 116.0
+2018121700,"Half1 down 1.0 start 75.0 end 144.0 (:46) D.Brees pass deep right to B.Watson to CAR 32 for 43 yards (L.Kuechly; J.Bradberry). Carolina challenged the runner was not down by contact ruling, and the play was REVERSED. D.Brees pass deep right to B.Watson to CAR 47 for 28 yards (T.Davis).",1.0,00:46:00,75.0,69,6.700797388968869, start 75.0, end 144.0
+2018121700,"Half1 down 4.0 start 66.0 end 75.0 (:53) M.Palardy punts 41 yards to NO 25, Center-J.Jansen, fair catch by T.Lewis.",4.0,00:53:00,66.0,9,3.57438234894393, start 66.0, end 75.0
+2018121700,Half1 down 3.0 start 66.0 end 75.0 (:57) (Shotgun) C.Newton pass incomplete short right to C.Manhertz (V.Bell).,3.0,00:57:00,66.0,9,7.82104184812675, start 66.0, end 75.0
+2018121700,Half1 down 2.0 start 71.0 end 80.0 (1:41) C.McCaffrey left guard to CAR 34 for 5 yards (M.Davenport).,2.0,01:41:00,71.0,9,2.28842349573078, start 71.0, end 80.0
+2018121700,Half1 down 1.0 start 75.0 end 84.0 (2:16) C.McCaffrey right guard to CAR 29 for 4 yards (V.Bell).,1.0,02:16:00,75.0,9,0.60810313299664, start 75.0, end 84.0
+2018121700,"Half1 down 4.0 start 28.0 end 51.0 (2:20) W.Lutz 46 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",4.0,02:20:00,28.0,23,4.23458269443495, start 28.0, end 51.0
+2018121700,Half1 down 3.0 start 28.0 end 51.0 (2:25) (Shotgun) D.Brees pass incomplete short right to J.Hill (L.Kuechly).,3.0,02:25:00,28.0,23,4.16110064378006, start 28.0, end 51.0
+2018121700,Half1 down 2.0 start 29.0 end 52.0 (3:10) A.Kamara right guard to CAR 28 for 1 yard (K.Short).,2.0,03:10:00,29.0,23,2.65934074761509, start 29.0, end 52.0
+2018121700,Half1 down 1.0 start 29.0 end 52.0 (3:14) D.Brees pass incomplete short left to M.Thomas.,1.0,03:14:00,29.0,23,1.52956119311932, start 29.0, end 52.0
+2018121700,Half1 down 1.0 start 51.0 end 74.0 (3:56) (Shotgun) W.Clapp reported in as eligible.  M.Ingram right guard to CAR 29 for 22 yards (T.Davis).,1.0,03:56:00,51.0,23,3.49954553483218, start 51.0, end 74.0
+2018121700,"Half1 down 4.0 start 50.0 end 140.0 (4:12) C.Clark reported in as eligible.  C.McCaffrey pass short right to C.Manhertz for 50 yards, TOUCHDOWN.",4.0,04:12:00,50.0,90,21.47857005599033, start 50.0, end 140.0
+2018121700,"Half1 down 3.0 start 57.0 end 147.0 (4:57) (No Huddle, Shotgun) C.Newton pass short right to D.Moore to 50 for 7 yards (D.Onyemata).",3.0,04:57:00,57.0,90,1.99362444076812, start 57.0, end 147.0
+2018121700,Half1 down 2.0 start 56.0 end 146.0 (5:42) C.Newton sacked at CAR 43 for -1 yards (A.Okafor).,2.0,05:42:00,56.0,90,3.4190455862151996, start 56.0, end 146.0
+2018121700,Half1 down 1.0 start 58.0 end 148.0 (6:17) C.McCaffrey up the middle to CAR 44 for 2 yards (S.Rankins).,1.0,06:17:00,58.0,90,1.2062671985192701, start 58.0, end 148.0
+2018121700,"Half1 down 3.0 start 90.0 end 180.0 (6:47) (Shotgun) C.Newton pass deep left to C.Samuel to CAR 27 for 17 yards (M.Williams). PENALTY on NO-M.Davenport, Roughing the Passer, 15 yards, enforced at CAR 27.",3.0,06:47:00,90.0,90,13.82897936445932, start 90.0, end 180.0
+2018121700,"Half1 down 2.0 start 90.0 end 180.0 (6:51) (No Huddle, Shotgun) C.Newton pass incomplete short middle to I.Thomas.",2.0,06:51:00,90.0,90,2.6306542314833496, start 90.0, end 180.0
+2018121700,Half1 down 1.0 start 90.0 end 180.0 (7:26) (Shotgun) C.Newton left end to CAR 10 for no gain (V.Bell; A.Klein).,1.0,07:26:00,90.0,90,2.1494389008861603, start 90.0, end 180.0
+2018121700,"Half1 down 4.0 start 56.0 end 86.0 (7:33) T.Morstead punts 46 yards to CAR 10, Center-Z.Wood, out of bounds.",4.0,07:33:00,56.0,30,4.36806185396956, start 56.0, end 86.0
+2018121700,Half1 down 3.0 start 56.0 end 86.0 (7:38) (Shotgun) D.Brees pass incomplete short middle to T.Hill.,3.0,07:38:00,56.0,30,5.30535811466721, start 56.0, end 86.0
+2018121700,Half1 down 2.0 start 64.0 end 94.0 (8:13) D.Brees pass short right to A.Kamara pushed ob at NO 44 for 8 yards (S.Thompson).,2.0,08:13:00,64.0,30,0.76606364161254, start 64.0, end 94.0
+2018121700,"Half1 down 2.0 start 54.0 end 84.0 (8:44) (Shotgun) D.Brees pass short right to M.Thomas to CAR 48 for 6 yards (J.Bradberry). PENALTY on NO-K.Kirkwood, Offensive Pass Interference, 10 yards, enforced at NO 46 - No Play.",2.0,08:44:00,54.0,30,4.34402367532413, start 54.0, end 84.0
+2018121700,Half1 down 1.0 start 60.0 end 90.0 (9:23) A.Kamara right tackle to NO 46 for 6 yards (L.Kuechly).,1.0,09:23:00,60.0,30,0.94481419107927, start 60.0, end 90.0
+2018121700,Half1 down 3.0 start 81.0 end 111.0 (10:02) (Shotgun) D.Brees pass deep left to K.Kirkwood to NO 40 for 21 yards (M.Adams).,3.0,10:02:00,81.0,30,9.8083566616778, start 81.0, end 111.0
+2018121700,Half1 down 2.0 start 81.0 end 111.0 (10:11) (Shotgun) D.Brees pass incomplete short right to D.Arnold.,2.0,10:11:00,81.0,30,2.61728151601308, start 81.0, end 111.0
+2018121700,"Half1 down 1.0 start 86.0 end 116.0 (10:43) M.Ingram up the middle to NO 19 for 5 yards (W.Horton, T.Davis).",1.0,10:43:00,86.0,30,0.3361459502072, start 86.0, end 116.0
+2018121700,"Half1 down 4.0 start 50.0 end 75.0 (10:50) M.Palardy punts 36 yards to NO 14, Center-J.Jansen, fair catch by T.Lewis.",4.0,10:50:00,50.0,25,3.2533675668418, start 50.0, end 75.0
+2018121700,Half1 down 3.0 start 56.0 end 81.0 (11:26) (Shotgun) C.Newton pass short right to I.Thomas to 50 for 6 yards (E.Apple).,3.0,11:26:00,56.0,25,2.13502725572061, start 56.0, end 81.0
+2018121700,"Half1 down 2.0 start 46.0 end 71.0 (12:07) (No Huddle, Shotgun) C.Newton sacked at CAR 44 for -10 yards (D.Davis).",2.0,12:07:00,46.0,25,6.79921794626883, start 46.0, end 71.0
+2018121700,Half1 down 1.0 start 51.0 end 76.0 (12:37) C.McCaffrey right tackle to NO 46 for 5 yards (A.Klein; C.Jordan).,1.0,12:37:00,51.0,25,0.30361112357892, start 51.0, end 76.0
+2018121700,Half1 down 3.0 start 54.0 end 79.0 (13:12) (Shotgun) C.McCaffrey up the middle to CAR 49 for 3 yards (K.Coleman).,3.0,13:12:00,54.0,25,1.55274090491537, start 54.0, end 79.0
+2018121700,Half1 down 2.0 start 63.0 end 88.0 (13:55) (Shotgun) C.McCaffrey up the middle to CAR 46 for 9 yards (P.Williams; V.Bell).,2.0,13:55:00,63.0,25,3.99583329434509, start 63.0, end 88.0
+2018121700,"Half1 down 1.0 start 63.0 end 88.0 (13:59) (No Huddle, Shotgun) C.Newton pass incomplete short right to D.Moore.",1.0,13:59:00,63.0,25,2.1121927473134, start 63.0, end 88.0
+2018121700,Half1 down 2.0 start 71.0 end 96.0 (14:29) (Shotgun) C.Newton pass short left to I.Thomas to CAR 37 for 8 yards (M.Williams).,2.0,14:29:00,71.0,25,3.82545567101067, start 71.0, end 96.0
+2018121700,Half1 down 1.0 start 75.0 end 100.0 (15:00) C.McCaffrey right tackle to CAR 29 for 4 yards (D.Davis; E.Apple).,1.0,15:00:00,75.0,25,0.10608702859472, start 75.0, end 100.0
